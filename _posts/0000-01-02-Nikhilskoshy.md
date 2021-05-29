@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"When a man learns to love, he must bear the risk of hatred "
 Use the left arrow to go back!
